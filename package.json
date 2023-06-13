@@ -16,6 +16,6 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.5.0"
+    "@adiwajshing/baileys": "github:KiZakiXD/Baileys-MD"
   }
 }
