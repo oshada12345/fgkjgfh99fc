@@ -1,0 +1,21 @@
+{
+  "name": "auto-reply-chat-bot",
+  "version": "1.0.0",
+  "description": "Auto-reply chat bot for WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "auto-reply",
+    "chat bot",
+    "WhatsApp",
+    "Node.js",
+    "Baileys"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.5.0"
+  }
+}
